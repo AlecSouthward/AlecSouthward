@@ -1,11 +1,14 @@
-## Hey there!
+## Hey there! 👋
 
-Here are some fun facts about me:
+[![GitHub](https://img.shields.io/badge/GitHub-@AlecSouthward-181717?style=flat&logo=github)](https://github.com/AlecSouthward)
+[![Discord](https://img.shields.io/badge/Discord-itsmealec-5865F2?style=flat&logo=discord)](https://discordapp.com/users/itsmealec)
+[![itch.io](https://img.shields.io/badge/itchdotio_text-itsmealec-red?label=itch.io&logo=itchdotio)](https://itsmealec.itch.io/)
+[![website](https://img.shields.io/badge/website_text-asouthdev.co.za-blue?label=website)](https://asouthdev.co.za/)
 
-- ~~I'm currently working on an AI that is designed specifically for entertainment (will be used mainly as a Discord bot in a call).~~
-- The AI's development is in hiatus until I get hardware improvements...
-- I'm _now_ currently working on an open-source self-hosted Dungeons & Dragons site to help run and participate in campaigns.
-- Created some Godot addons a while back, they were made with flexibility and usability in mind.
-- I think that a decent amount of indie games are gems.
-- Former Indie Game Developer, only really liked programming and not the art and music side of things.
-- Hit me up on Discord if you wanna ask me something (my username is `itsmealec`).
+### About Me
+
+- Currently building an **open-source, self-hosted Dungeons & Dragons** platform to help run and manage campaigns.
+- Previously developed a **Discord-based entertainment AI**, now on hiatus until I upgrade my hardware.
+- Created a few [Godot addons](https://godotengine.org/asset-library/asset?user=ItsMeAlec) focused on flexibility and usability.
+- Indie games are often **underrated gems** — I love finding the good ones.
+- Former indie game dev! I enjoyed the coding side of things, not so much the art or audio.
