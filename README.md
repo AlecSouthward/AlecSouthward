@@ -1,4 +1,4 @@
-## Hey there! 👋
+## Hey there!
 
 [![GitHub](https://img.shields.io/badge/GitHub-@AlecSouthward-181717?style=flat&logo=github)](https://github.com/AlecSouthward)
 [![Discord](https://img.shields.io/badge/Discord-itsmealec-5865F2?style=flat&logo=discord)](https://discordapp.com/users/itsmealec)
@@ -7,8 +7,13 @@
 
 ### About Me
 
-- Currently building an **open-source, self-hosted Dungeons & Dragons** platform to help run and manage campaigns.
-- Previously developed a **Discord-based entertainment AI**, now on hiatus until I upgrade my hardware.
-- Created a few [Godot addons](https://godotengine.org/asset-library/asset?user=ItsMeAlec) focused on flexibility and usability.
-- Indie games are often **underrated gems** — I love finding the good ones.
-- Former indie game dev! I enjoyed the coding side of things, not so much the art or audio.
+- Subscriptions/memberships bad, self-hosting good.
+- Indie games make me feel at home.
+- LLMs kinda suck, but they're useful for some things.
+- Game development is hard. Like really hard.
+
+### Working On
+
+Little bit of everything, trying to find my favorite language.
+
+To be honest, just starting projects at random.
